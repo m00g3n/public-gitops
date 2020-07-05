@@ -1,3 +1,3 @@
 FROM node:12.18.0-alpine3.12
 
-CMD ["echo", "¯\_(ツ)_/¯ budowanko"]
+CMD ["echo", "( ͡° ͜ʖ ͡°) budowanko"]
