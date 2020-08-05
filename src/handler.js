@@ -1,5 +1,5 @@
 module.exports = {
     main: function (event, context) {
-        return 'welcome to the lambda world!!'
+        return 'hello my friend stay a while and listen...'
     }
 }
