@@ -1,5 +1,5 @@
 module.exports = {
     main: function (event, context) {
-        return 'no-auth2 check123'
+        return 'hello from root function'
     }
 }
