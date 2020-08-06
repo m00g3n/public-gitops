@@ -1,5 +1,5 @@
 module.exports = {
     main: function (event, context) {
-        return 'Hello World!!!'
+        return 'hello from function2'
     }
 }
