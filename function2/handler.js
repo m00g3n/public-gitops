@@ -1,5 +1,5 @@
 module.exports = {
     main: function (event, context) {
-        return 'hello from inner function this was tagged'
+        return 'hello from inner function this was after tagged'
     }
 }
